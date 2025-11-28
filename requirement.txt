@@ -10,4 +10,4 @@ webdriver-manager
 selectolax
 hypercorn
 pywebview
-flask flask-cors flask-restful
+flask-restful
