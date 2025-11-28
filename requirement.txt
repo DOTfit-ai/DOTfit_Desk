@@ -4,9 +4,12 @@ flack[async]
 qrcode
 sympy
 numpy
-selenium pandas webdriver-manager
+selenium
+pandas
+webdriver-manager
 selectolax
 hypercorn
 pywebview
 flask flask-cors flask-restful
+
 
