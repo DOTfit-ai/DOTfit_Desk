@@ -1,6 +1,6 @@
 flask
 flask-cors
-"flack[async]"
+flack[async]
 qrcode
 sympy
 numpy
@@ -9,3 +9,4 @@ selectolax
 hypercorn
 pywebview
 flask flask-cors flask-restful
+
